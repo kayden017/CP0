@@ -1,0 +1,27 @@
+h1{
+  text-align:center;
+ font-family: 'Mochiy Pop P One', sans-serif;
+  color: blueviolet
+}
+
+p{
+  color:rgb(255, 8, 255);
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-size:2.0em;
+ text-align: center
+}
+ol{
+  color:rgb(234, 0, 255);
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+body{
+  background:url(\https://images.static-bluray.com/reviews/16876_1.jpg)
+
+}
+}
+h1{
+ font-family: 'Mochiy Pop P One', sans-serif;;
+}
+li{
+  text-align: center;
+}
